@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manjot Singh (@manjotsingh0850)
 - 👀 I’m looking for Frontend Developer Roles..
-- 🌱 I’m currently learning HTML, CSS, Js, ReactJS, MERN stack, FIrebase
+- 🌱 I’m currently learning HTML, CSS, Js, ReactJS, MERN stack, Firebase
 - 💞️ I made some projects like: Tripwise, M4Books..
 - 📫 Let's Connect: https://www.linkedin.com/in/des1manjotsingh/, gmail: manjots1221@gmail.com
 
